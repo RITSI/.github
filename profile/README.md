@@ -4,7 +4,7 @@
     <img src="https://wiki.ritsi.org/start/10._imagotipo.png" alt="RITSI" width="400"/>
 </p>
 
-¡Bienvenido/a a la organización de RITSI en GitHub! Aquí podrás encontrar los repositorios de la Asoaciación.
+¡Te damos la bienvenida a la organización de RITSI en GitHub! Aquí podrás encontrar los repositorios de la Asoaciación.
 
 ## ¿Qué es RITSI?
 
